@@ -3,7 +3,7 @@
 <p align="center">
   <img src="experimental_design_diagram.png" alt="Experimental Design Diagram" width="400"/>
 </p>
-***3 Major Source of Variability in Most Genomic Measurement***: 
+*** 3 Major Source of Variability in Most Genomic Measurement ***: 
 1: Phenotypic variability
 2: Measurment error
 3: Natural biological variation
