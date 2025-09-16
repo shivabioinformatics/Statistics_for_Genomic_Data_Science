@@ -79,4 +79,14 @@ https://jtleek.com/genstats/inst/doc/01_10_exploratory-analysis.html
 Exploratory Analysis in R Part II
 https://jtleek.com/genstats/inst/doc/01_10_exploratory-analysis.html
 
+Data Transforms 
+https://jtleek.com/genstats/inst/doc/01_11_transforms.html
+
+Clustering
+https://jtleek.com/genstats_site/lecture_notes/01_12_Clustering.pdf
+
+Clustering in R
+https://jtleek.com/genstats/inst/doc/01_13_clustering.html
+
+
 
